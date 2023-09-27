@@ -1,0 +1,7 @@
+database.user=
+database.password=
+database.url=jdbc:postgresql://IP/BANCO
+databaseredmine.url=jdbc:postgresql://10.128.0.xx/redmine
+
+# constante
+database.unicode=false&characterEncoding=UTF8
